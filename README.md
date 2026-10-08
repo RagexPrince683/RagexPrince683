@@ -337,19 +337,14 @@ I would rather substantially overhaul an existing system than add another shallo
 
 ## ☕ Support My Work
 
-I spend a lot of time maintaining, fixing, and expanding legacy Minecraft mods, often working with abandoned codebases and complex compatibility issues.
+I dedicate a significant amount of time to maintaining, optimizing, and expanding legacy Minecraft mods, many of which are open source and freely available.
 
-If you enjoy my projects or have benefited from my work, consider supporting continued development through Ko-fi.
+If you enjoy my projects or have benefited from my work, consider supporting their continued development!
 
-**[☕ Support me on Ko-fi](https://ko-fi.com/Y8Y5ZHL41)**
+- **[☕ Ko-fi](https://ko-fi.com/Y8Y5ZHL41)** — Make a one-time donation.
+- **[❤️ Patreon](https://www.patreon.com/c/ragexprince683)** — Support my work on an ongoing basis.
 
-Donations are entirely optional. Every bit of support helps me dedicate more time to maintaining and expanding these projects.
-
-## 📺 YouTube
-
-I occasionally post development, Minecraft, installation, and other content on YouTube:
-
-[https://www.youtube.com/@RagexPrince683](https://www.youtube.com/@RagexPrince683)
+**All support is completely optional and greatly appreciated!** Your contributions help me dedicate more time to fixing bugs, maintaining existing projects, and developing new features for the Minecraft 1.7.10 community.
 
 ---
 
