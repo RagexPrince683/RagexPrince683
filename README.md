@@ -335,6 +335,16 @@ I would rather substantially overhaul an existing system than add another shallo
 
 ---
 
+## ☕ Support My Work
+
+I spend a lot of time maintaining, fixing, and expanding legacy Minecraft mods, often working with abandoned codebases and complex compatibility issues.
+
+If you enjoy my projects or have benefited from my work, consider supporting continued development through Ko-fi.
+
+**[☕ Support me on Ko-fi](https://ko-fi.com/Y8Y5ZHL41)**
+
+Donations are entirely optional. Every bit of support helps me dedicate more time to maintaining and expanding these projects.
+
 ## 📺 YouTube
 
 I occasionally post development, Minecraft, installation, and other content on YouTube:
